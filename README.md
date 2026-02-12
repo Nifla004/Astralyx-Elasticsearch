@@ -1,6 +1,6 @@
 # Astralyx-Elasticsearch
 
-# Astralyx ♾️  
+# Astralyx ♾️
 ## A Self-Evolving Cognitive Search Fabric for Multidimensional Reality Signals  
 ### Powered by Elastic Vector Intelligence
 
